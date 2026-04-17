@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Junior Penetration Tester from Georgia</p>
+<p align="left">Penetration Tester from Georgia</p>
 
 ###
 
